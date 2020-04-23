@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+
+body{
+    background: url("pics/clear-long-stemmed-wine-glass-on-brown-table-1484516.jpg") no-repeat fixed;
+    background-size:cover;
+    font-family: 'Cormorant Garamond', serif;
+
+}
+.navbar-brand h1{
+    font-family: 'Cormorant Garamond', serif;
+    font-size:50px;
+    color: white;
+    font-weight: bold;
+
+}
+.navbar-brand a:hover{
+    text-decoration: none ;
+    text-shadow: 2px 2px #acd3ff;
+}
+#nav-list{
+    text-align:center;
+    margin:1px auto 5px;
+
+    font-size:20px;
+}
+.nav-item a {
+    color: white;
+
+}
+.nav-item a:hover{
+    text-decoration: none;
+    color:black;
+}
+#main-content{
+    background:white;
+    opacity:.5;
+    margin-top:20px;
+    box-shadow:2px 3px 12px 12px black
+;
+
+}
+
+section .row{
+    height:1000px;
+}

@@ -35,5 +35,11 @@ body{
     background:white;
     opacity:.5;
     margin-top:20px;
-    box-shadow:2px 3px 12px 12px black;
-    }
+    box-shadow:2px 3px 12px 12px black
+;
+
+}
+
+section .row{
+    height:1000px;
+}
